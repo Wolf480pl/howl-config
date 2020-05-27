@@ -1,4 +1,6 @@
 # howl-config
-My personal configuration for the Howl editor.
+My personal configuration for the [Howl] editor.
 
 **Contains horrible hax. You have been warned!**
+
+[Howl]: https://howl.io/
